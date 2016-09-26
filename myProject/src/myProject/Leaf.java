@@ -11,7 +11,7 @@ public class Leaf {
 	}
 	public static void main(String[] args) {
 	Leaf x = new Leaf();
-	// µÝÔö
+	// é€’å¢ž
 	x.increment().increment().increment().print();
 	}
 }
