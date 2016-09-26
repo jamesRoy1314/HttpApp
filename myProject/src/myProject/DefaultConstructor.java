@@ -8,6 +8,7 @@ public class DefaultConstructor {
 		// TODO Auto-generated method stub
 		Brid nc = new Brid();
 		System.out.println(111111);
+		System.out.println(22222);
 	}
 
 }
